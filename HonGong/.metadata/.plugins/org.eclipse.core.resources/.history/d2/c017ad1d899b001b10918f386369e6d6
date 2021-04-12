@@ -1,0 +1,8 @@
+package sec06.exam05.package1;
+
+public class B {
+	// 필드
+	A a = new A();
+	a.field1 = 1;
+	
+}
