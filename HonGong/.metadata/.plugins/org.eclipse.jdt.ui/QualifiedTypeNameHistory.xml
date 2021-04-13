@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+<fullyQualifiedTypeName name="sec01.exam01.DmbCellPhone"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="sec01.exam03.Calculator"/>
+<fullyQualifiedTypeName name="sec01.exam04.SupersonicAirplane"/>
+<fullyQualifiedTypeName name="java.awt.font.FontRenderContext"/>
+<fullyQualifiedTypeName name="sec02.exam03.HankookTire"/>
+<fullyQualifiedTypeName name="sec02.exam03.KumhoTire"/>
+</qualifiedTypeNameHistroy>

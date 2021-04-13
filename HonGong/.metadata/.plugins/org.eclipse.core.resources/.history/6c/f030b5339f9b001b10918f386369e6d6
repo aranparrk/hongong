@@ -1,0 +1,10 @@
+package sec02.exam01;
+
+class A {
+	class B extends PromotionExample{}
+	class C extends PromotionExample{}
+	
+	class D extends B{}
+	class E extends c{}
+	
+}
