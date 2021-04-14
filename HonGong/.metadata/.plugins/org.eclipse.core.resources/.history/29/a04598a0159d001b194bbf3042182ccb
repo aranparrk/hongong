@@ -1,0 +1,30 @@
+package sec01.exam04;
+
+import sec01.exam03.RemoteControl;
+
+public class Audio implements RemoteControl {
+	// 필드
+	private int volume;
+	
+	// turnOn() 추상메소드의 실체메소드
+	@Override
+	public void turnOn() {
+		// TODO Auto-generated method stub
+
+	}
+
+	// turnOff() 추상메소드의 실체메소드
+	@Override
+	public void turnOff() {
+		// TODO Auto-generated method stub
+
+	}
+
+	// setVolume() 추상메소드의 실체메소드
+	@Override
+	public void setVolume(int volume) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
