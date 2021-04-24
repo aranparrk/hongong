@@ -1,0 +1,23 @@
+package sec02.exam05;
+
+public class ImplementationC implements InterfaceC {
+
+	@Override
+	public void methoedA() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void methoedB() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void methoedC() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
